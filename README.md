@@ -16,14 +16,11 @@
 </div>
 
 <br>
-
-- 🔭 Estou em busca de relocação após um tempo parado.<br>
-- 🌱 Estou cursando Especialização em Desenvolvimento FullStack<br>
-- 😄 Pronouns: ele/dele<br>
-
+  Me chamo Nicário, tenho 27 anos e sou formado em Analise de Desenvolvimento de Sistemas, atuei em áreas de Suporte técnico, Recrutamento e Seleção e me arrisquei em abrir um estúdio de Design Gráfico e Editorial em parceria com meu irmão. Os anos passaram, eu fui largando aos poucos a área de programação, porém, em 2021 para 2022, diante de um momento complicado em minha vida, descobri que tenho TDAH, o que me levou a rever meus pontos.
+  
+  Junto disso, me voltei para a área de programação novamente e estou a alguns meses estudando, fazendo curso de especialização pela Impacta de Desenvolvimento FullStack, buscando uma oportunidade de me recolocar no mercado. Esse sou eu! 😊 
 <br>
 <br>
-
 
 ## Meus Projetos principais:
 
