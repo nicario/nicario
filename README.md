@@ -23,7 +23,9 @@
 <br>
 
 ## Meus Projetos principais:
-
+  
+  - ✔ Projeto em Flutter: https://github.com/nicario/flutter_padrao (Projeto feito no curso de Desenvolvimento Fullstack pela impacta)
+  - ✔ Projeto em Angular: https://github.com/nicario/Angular_API (Projeto feito no curso de Desenvolvimento Fullstack pela impacta)
   - ✔ TodoList em React: https://github.com/nicario/Todolist_Reactjs (Projeto feito no curso Desenvolvimento FullStack pela impacta)
   - ✔ Portfólio 2.0: https://github.com/nicario/Portifolio2.0 (Projeto em andamento)
   - ✔ Bateria Virtual em Javascript Puro: https://github.com/nicario/bateria_virtual (Projeto feito para treinar o JS puro)
